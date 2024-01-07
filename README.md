@@ -56,8 +56,4 @@ flutter run // After selecting the device you want to test on
 **Server**: Node.js, Express, Socket.io, Mongoose, MongoDB
 
 **Client**: Flutter, Provider
-    
-## Feedback
-
-If you have any feedback, please reach out to me at namanrivaan@gmail.com or on Instagram at optimalcoding.
 
